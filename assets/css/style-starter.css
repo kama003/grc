@@ -20907,6 +20907,7 @@ a.place-image .iconic-plus p {
   padding: 30px;
   box-shadow: var(--box-shadow);
   border-radius: var(--border-radius);
+  height: 14em;
 }
 
 .w3l-contact-info .text-box p a {
